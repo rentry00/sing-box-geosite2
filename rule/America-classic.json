@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "adobe",
+        "avoddashs",
+        "paypal",
+        "steambroadcast",
+        "steamstore",
+        "steamuserimages"
+      ]
+    }
+  ],
+  "version": 2
+}

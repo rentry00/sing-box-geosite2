@@ -1,0 +1,64 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "aida.googleapis.com",
+        "aistudio.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "api.githubcopilot.com",
+        "bard.google.com",
+        "chat.mistral.ai",
+        "console.mistral.ai",
+        "copilot-proxy.githubusercontent.com",
+        "copilot.microsoft.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "imagine.meta.com",
+        "makersuite.google.com",
+        "o33249.ingest.us.sentry.io",
+        "sydney.bing.com",
+        "www.bing.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "openai"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ai.com",
+        "anthropic.com",
+        "chatgpt.com",
+        "chatgpt.livekit.cloud",
+        "claude.ai",
+        "claudeusercontent.com",
+        "featuregates.org",
+        "grazie.ai",
+        "grazie.aws.intellij.net",
+        "grok.com",
+        "host.livekit.cloud",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "meta.ai",
+        "mistral.ai",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "perplexity.ai",
+        "perplexity.com",
+        "pplx.ai",
+        "turn.livekit.cloud",
+        "x.ai"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "160.79.104.0/23",
+        "2607:6bc0::/48"
+      ]
+    }
+  ],
+  "version": 2
+}

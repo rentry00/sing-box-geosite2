@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "1drv",
+        "microsoft",
+        "onedrive",
+        "skydrive"
+      ]
+    }
+  ],
+  "version": 2
+}

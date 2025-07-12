@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "musical.ly",
+        "tiktok"
+      ]
+    }
+  ],
+  "version": 2
+}

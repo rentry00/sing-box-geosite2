@@ -1,0 +1,31 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "abematv.akamaized.net",
+        "ds-linear-abematv.akamaized.net",
+        "ds-vod-abematv.akamaized.net",
+        "linear-abematv.akamaized.net",
+        "measure.ic.tver.jp",
+        "us-central1-u-next-apps.cloudfunctions.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "abema.io",
+        "abema.tv",
+        "ameba.jp",
+        "fujitv.co.jp",
+        "happyon.jp",
+        "hayabusa.io",
+        "hulu.jp",
+        "nxtv.jp",
+        "paravi.jp",
+        "prod.hjholdings.tv",
+        "stream.ne.jp",
+        "unext.jp"
+      ]
+    }
+  ],
+  "version": 2
+}

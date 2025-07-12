@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "geforce",
+        "nvidia",
+        "roblox"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "auone.jp",
+        "cdnjs.cloudflare.com",
+        "d3jemebx5aub7p.cloudfront.net",
+        "jimcdn.com",
+        "jimdo.com",
+        "jimstatic.com",
+        "prod.jimdo.systems"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "13.104.100.0/24",
+        "210.17.0.0/16",
+        "221.110.0.0/16",
+        "24.51.0.0/16",
+        "64.125.0.0/16",
+        "66.22.0.0/16",
+        "77.111.0.0/16",
+        "8.42.102.0/24",
+        "80.84.0.0/16"
+      ]
+    }
+  ],
+  "version": 2
+}

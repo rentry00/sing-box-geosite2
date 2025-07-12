@@ -1,0 +1,49 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cbsi.live.ott.irdeto.com",
+        "cbsplaylistserver.aws.syncbak.com",
+        "cbsservice.aws.syncbak.com",
+        "cws-hulu.conviva.com",
+        "kvinit-prod.api.kochava.com",
+        "link.theplatform.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "discoveryplus"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cbsaavideo.com",
+        "cbsi.com",
+        "cbsivideo.com",
+        "crunchyroll.com",
+        "disco-api.com",
+        "discoveryplus.com",
+        "dnitv.com",
+        "hbo.com",
+        "hbomax.com",
+        "hbomaxcdn.com",
+        "hbonow.com",
+        "hulu.com",
+        "hulu.tv",
+        "huluim.com",
+        "hulustream.com",
+        "litix.io",
+        "media.starott.com",
+        "paramountplus.com",
+        "pbs.org",
+        "peacocktv.com",
+        "pplusstatic.com",
+        "roku.com",
+        "rokutime.com",
+        "uplynk.com",
+        "vrv.co"
+      ]
+    }
+  ],
+  "version": 2
+}

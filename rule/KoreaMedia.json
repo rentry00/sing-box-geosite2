@@ -1,0 +1,47 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        ".kr",
+        "afreeca",
+        "afreecatv",
+        "coupang",
+        "tving",
+        "watcha",
+        "wavve"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "afreecatv.com",
+        "amz.wtchn.net",
+        "apis.pooq.co.kr",
+        "cj.drmkeyserver.com",
+        "coupang.com",
+        "coupangplay.com",
+        "graph.facebook.com",
+        "hqkoz2vau9.execute-api.ap-northeast-2.amazonaws.com",
+        "image.pip.cjenm.com",
+        "ipv4.cws.conviva.com",
+        "ipv6.cws.conviva.com",
+        "kbs.co.kr",
+        "kr",
+        "launches.appsflyer.com",
+        "naver.com",
+        "pooq3-static-json.pooq.co.kr",
+        "sdk.iad-05.braze.com",
+        "smartmediarep.com",
+        "tving.com",
+        "vod.kbs.co.kr",
+        "watch-cdn.product.api.espn.com",
+        "watcha.co.kr",
+        "watcha.com",
+        "watcha.team",
+        "watcha.zendesk.com",
+        "wavve.com",
+        "zdassets.com"
+      ]
+    }
+  ],
+  "version": 2
+}

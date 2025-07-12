@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "agkn.com",
+        "claw.cloud",
+        "cohere.com",
+        "crashlytics.com",
+        "inmobi.com",
+        "ip-api.com",
+        "kochava.com",
+        "mobilefuse.com",
+        "sg",
+        "talkatone.com",
+        "tktn.at",
+        "tktn.be"
+      ]
+    }
+  ],
+  "version": 2
+}

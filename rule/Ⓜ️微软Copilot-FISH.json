@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "copilot.cloud.microsoft",
+        "copilot.microsoft.com",
+        "www.bing.com"
+      ]
+    }
+  ],
+  "version": 2
+}

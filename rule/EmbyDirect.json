@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "cloudflare-dns.com",
+        "www.jrskan.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "emby.wtf",
+        "meimeiyun.top",
+        "mypikpak.com",
+        "tag-global-ddns.top",
+        "ttvnw.net"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.0.0.1/32",
+        "1.1.1.1/32",
+        "136.22.0.0/16"
+      ]
+    },
+    {
+      "port": [
+        "22"
+      ]
+    }
+  ],
+  "version": 2
+}

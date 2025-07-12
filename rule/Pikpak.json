@@ -1,0 +1,44 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "access.mypikpak.com",
+        "access.mypikpak.net",
+        "access.pikpak.me",
+        "access.pikpakdrive.com",
+        "api-drive.mypikpak.com",
+        "config.mypikpak.com",
+        "connect.intl.rom.miui.com",
+        "download.mypikpak.com",
+        "global.market.xiaomi.com",
+        "info.mypikpak.com",
+        "jupiter.intl.sys.miui.com",
+        "mypikpak.com",
+        "pdc.micloud.xiaomi.net",
+        "rcv5-sp.mypikpak.com",
+        "res-etl-ssl.mypikpak.com",
+        "static.mypikpak.com",
+        "sub.xeton.dev",
+        "user.mypikpak.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dice-live-eu.akamaized.net",
+        "dve-streams.akamaized.net",
+        "global.xiaomi.com",
+        "global.xiaomi.net",
+        "intl.inf.miui.com",
+        "intl.miui.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "161.117.0.0/16",
+        "47.241.0.0/16",
+        "47.74.0.0/16"
+      ]
+    }
+  ],
+  "version": 2
+}

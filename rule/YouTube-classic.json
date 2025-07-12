@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "github",
+        "youtube"
+      ]
+    }
+  ],
+  "version": 2
+}

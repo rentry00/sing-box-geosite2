@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cloudflare.epicgamescdn.com",
+        "steam-software-download.dlt.qwilted-cds.cqloud.com"
+      ]
+    }
+  ],
+  "version": 2
+}

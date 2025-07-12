@@ -1,0 +1,22 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "apple-support.akadns.net",
+        "apple.com.akadns.net",
+        "apple.com.edgekey.net",
+        "bilibili",
+        "buy.itunes.apple.com",
+        "epicgames",
+        "icloud.com.akadns.net",
+        "qiyi",
+        "smp-device",
+        "steambroadcast",
+        "steamstore",
+        "steamuserimages",
+        "testflight"
+      ]
+    }
+  ],
+  "version": 2
+}

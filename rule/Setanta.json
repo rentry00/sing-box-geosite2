@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "1ok961aaca.execute-api.eu-west-1.amazonaws.com",
+        "imggaming.s3-eu-west-1.amazonaws.com",
+        "ux1kpaebv0.execute-api.eu-west-1.amazonaws.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "dicelaboratory.com",
+        "diceplatform.com",
+        "imggaming.com",
+        "pndsn.com",
+        "setantasports.com"
+      ]
+    }
+  ],
+  "version": 2
+}

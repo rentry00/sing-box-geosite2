@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "*.2046acg.com",
+        "misakaf.org",
+        "xywlapi.cc"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "168.138.176.146/27"
+      ]
+    }
+  ],
+  "version": 2
+}

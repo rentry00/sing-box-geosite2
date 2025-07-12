@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hk"
+      ]
+    }
+  ],
+  "version": 2
+}

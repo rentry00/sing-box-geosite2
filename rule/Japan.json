@@ -1,0 +1,60 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "audio4-ak-spotify-com.akamaized.net",
+        "cdn-spotify-experiments.conductrics.com",
+        "heads-ak-spotify-com.akamaized.net",
+        "spotify.com.edgesuite.net",
+        "spotify.map.fastly.net",
+        "spotify.map.fastlylb.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "akabeesoft2.com",
+        "akabeesoft3.com",
+        "akatsukiworks.com",
+        "alicesoft.com",
+        "audio-ak-spotify-com.akamaized.net",
+        "bluekai.com",
+        "byspotify.com",
+        "cosmiccute.com",
+        "dmm-extension.com",
+        "dmm.com",
+        "dmm.hk",
+        "dmmapis.com",
+        "dmmrex.com",
+        "heads4-ak-spotify-com.akamaized.net",
+        "hibiki-site.com",
+        "im-apps.net",
+        "jp",
+        "ladsp.com",
+        "minori.ph",
+        "navismithapis-cdn.com",
+        "nico",
+        "niconico.com",
+        "pscdn.co",
+        "scdn.co",
+        "socdm.com",
+        "spoti.fi",
+        "spotify-com.akamaized.net",
+        "spotify-everywhere.com",
+        "spotify.app.link",
+        "spotify.com",
+        "spotify.design",
+        "spotifycdn.com",
+        "spotifycdn.net",
+        "spotifycharts.com",
+        "spotifycodes.com",
+        "spotifyforbrands.com",
+        "spotifyjobs.com",
+        "spotilocal.com",
+        "tenco.cc",
+        "tospotify.com",
+        "wheel-soft.com"
+      ]
+    }
+  ],
+  "version": 2
+}

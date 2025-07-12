@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "colab",
+        "developerprofiles",
+        "generativelanguage"
+      ]
+    }
+  ],
+  "version": 2
+}

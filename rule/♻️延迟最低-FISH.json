@@ -1,0 +1,48 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "artifacts.bitwarden.com",
+        "basemaps.cartocdn.com",
+        "cache.ruby-lang.org",
+        "cdn.kernel.org",
+        "coo.wiki",
+        "deb.debian.org",
+        "ecchi100.com",
+        "ftp.nluug.nl",
+        "ftp.wayne.edu",
+        "ftpmirror.gnu.org",
+        "git.codelinaro.org",
+        "git.openwrt.org",
+        "home-assistant.io",
+        "mirror.csclub.uwaterloo.ca",
+        "mirror.cyberbits.eu",
+        "mirror.lyrahosting.com",
+        "mirror.netcologne.de",
+        "mirror2.openwrt.org",
+        "openwrt.ai",
+        "pegasus-frontend.org",
+        "prodkeys.net",
+        "repo.jellyfin.org",
+        "sgp1.mirror.jellyfin.org",
+        "simcitybuildit.com",
+        "sources.cdn.openwrt.org",
+        "sourceware.org",
+        "static.rust-lang.org",
+        "sub.xeton.dev",
+        "thunderstore.io",
+        "v2rayssr.com",
+        "v3.stardew.info",
+        "wiki.movie-pilot.org",
+        "www.acgkkk.com",
+        "www.busybox.net",
+        "www.gtloli.eu.org",
+        "www.lwfinger.com",
+        "www.python.org",
+        "xn--4gq62f52gdss.ink",
+        "zodgame.xyz"
+      ]
+    }
+  ],
+  "version": 2
+}

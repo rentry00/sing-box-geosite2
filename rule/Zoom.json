@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "zoom"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cloud.zoom.us",
+        "zoom.us",
+        "zoomgov.com",
+        "zoominfo.com",
+        "zpns.zoom.us"
+      ]
+    }
+  ],
+  "version": 2
+}

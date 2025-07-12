@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "api.ipify.org",
+        "api.onedrive.com",
+        "bam.nr-data.net",
+        "connectivitycheck.gstatic.com",
+        "crossref.org",
+        "fwa.lifesizecloud.com",
+        "gh-proxy.com",
+        "ghfast.top",
+        "ghproxy.net",
+        "ipv6.microsoft.com",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "ncbi.nlm.nih.gov",
+        "qing-yu.top",
+        "rewards.bing.com",
+        "sentry.io",
+        "stun.fitauto.ru",
+        "stun.freeswitch.org",
+        "stun.hot-chilli.net",
+        "stun.isp.net.au",
+        "stun.miwifi.com",
+        "stun.nextcloud.com",
+        "stun.radiojar.com",
+        "stun.sonetel.com",
+        "stun.syncthing.net",
+        "stun.voip.blackberry.com",
+        "wns.windows.com",
+        "xboxlive.com",
+        "xn--ngstr-lra8j.com"
+      ]
+    }
+  ],
+  "version": 2
+}
