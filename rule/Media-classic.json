@@ -2,6 +2,8 @@
   "rules": [
     {
       "domain_keyword": [
+        "-spotify-com",
+        "-tiktokcdn-com",
         "abematv.akamaized.net",
         "anthropic",
         "apiproxy-device-prod-nlb",

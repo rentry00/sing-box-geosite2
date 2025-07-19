@@ -2,6 +2,11 @@
   "rules": [
     {
       "domain_keyword": [
+        "alkalimakersuite-pa.clients6.google.com",
+        "colab",
+        "developerprofiles",
+        "generativelanguage",
+        "openai",
         "openaicom-api"
       ]
     }
