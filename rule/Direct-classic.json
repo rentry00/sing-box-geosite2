@@ -10,14 +10,6 @@
       ]
     },
     {
-      "domain_regex": [
-        "^cdn-[\w.-]*?\.comaps\.app",
-        "^cdn-[\w.-]*?\.comaps\.tech",
-        "^cdn-[\w.-]*?\.organicmaps\.app",
-        "^download[\w.-]*?\.mediafire\.com"
-      ]
-    },
-    {
       "port": [
         "9993"
       ]
