@@ -1,4 +1,10 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "spotify"
+      ]
+    }
+  ],
   "version": 2
 }

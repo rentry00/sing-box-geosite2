@@ -1,4 +1,15 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "bilibili",
+        "epicgames",
+        "qiyi",
+        "steambroadcast",
+        "steamstore",
+        "steamuserimages"
+      ]
+    }
+  ],
   "version": 2
 }
