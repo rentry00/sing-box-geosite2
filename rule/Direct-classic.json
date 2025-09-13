@@ -2,12 +2,8 @@
   "rules": [
     {
       "domain_keyword": [
-        "announce",
         "aria2",
-        "chdbits",
-        "m-team",
         "thunder",
-        "torrent",
         "xlliveud",
         "xunlei",
         "yunpan"

@@ -7,7 +7,8 @@
         "developerprofiles",
         "generativelanguage",
         "openai",
-        "openaicom-api"
+        "openaicom-api",
+        "twitter"
       ]
     }
   ],
