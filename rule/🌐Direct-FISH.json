@@ -6,7 +6,6 @@
         "api.onedrive.com",
         "bam.nr-data.net",
         "cd120.info",
-        "connectivitycheck.gstatic.com",
         "crossref.org",
         "fwa.lifesizecloud.com",
         "gh-proxy.com",
@@ -23,15 +22,13 @@
         "stun.freeswitch.org",
         "stun.hot-chilli.net",
         "stun.isp.net.au",
-        "stun.miwifi.com",
         "stun.nextcloud.com",
         "stun.radiojar.com",
         "stun.sonetel.com",
         "stun.syncthing.net",
         "stun.voip.blackberry.com",
         "wns.windows.com",
-        "xboxlive.com",
-        "xn--ngstr-lra8j.com"
+        "xboxlive.com"
       ]
     }
   ],
