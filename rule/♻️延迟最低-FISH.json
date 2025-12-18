@@ -1,6 +1,11 @@
 {
   "rules": [
     {
+      "domain": [
+        "services.googleapis.cn"
+      ]
+    },
+    {
       "domain_suffix": [
         "artifacts.bitwarden.com",
         "basemaps.cartocdn.com",
@@ -41,6 +46,7 @@
         "www.lwfinger.com",
         "www.python.org",
         "xn--4gq62f52gdss.ink",
+        "xn--ngstr-lra8j.com",
         "zi0.cc",
         "zodgame.xyz"
       ]
