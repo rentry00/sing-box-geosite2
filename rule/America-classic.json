@@ -2,9 +2,7 @@
   "rules": [
     {
       "domain_keyword": [
-        "adobe",
-        "github",
-        "paypal"
+        "adobe"
       ]
     }
   ],
