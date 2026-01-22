@@ -22,7 +22,8 @@
         "mtalk-staging.google.com",
         "mtalk.google.com",
         "mtalk4.google.com",
-        "voice.telephony.goog"
+        "voice.telephony.goog",
+        "www.googleapis.com"
       ]
     },
     {
@@ -181,7 +182,6 @@
         "bumptop.net",
         "bumptop.org",
         "bumptunes.com",
-        "c.gle",
         "campuslondon.com",
         "capitalg.com",
         "certificate-transparency.dev",
@@ -238,10 +238,12 @@
         "digisfera.com",
         "digitalassetlinks.org",
         "digitalattackmap.com",
+        "docs.google.com",
         "doubleclick-cn.net",
         "doubleclick.com",
         "doubleclick.net",
         "download.qatp1.net",
+        "drive.google.com",
         "episodic.com",
         "fastlane.ci",
         "fastlane.tools",
