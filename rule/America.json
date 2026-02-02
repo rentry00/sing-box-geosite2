@@ -47,6 +47,7 @@
         "notary-submissions-prod.s3.us-west-2.amazonaws.com",
         "ood.opsource.net",
         "p-events-delivery.akamaized.net",
+        "packages.microsoft.com",
         "poshtestgallery.cloudapp.net",
         "practivate.adobe",
         "practivate.adobe.ipp",
