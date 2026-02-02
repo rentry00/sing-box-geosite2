@@ -3,13 +3,8 @@
     {
       "domain_suffix": [
         "*.2046acg.com",
-        "misakaf.org",
+        "emby.wtf",
         "xywlapi.cc"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "168.138.176.146/27"
       ]
     }
   ],

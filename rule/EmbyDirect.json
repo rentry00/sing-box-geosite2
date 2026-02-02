@@ -2,24 +2,28 @@
   "rules": [
     {
       "domain": [
-        "cloudflare-dns.com",
         "www.jrskan.com"
       ]
     },
     {
       "domain_suffix": [
-        "emby.wtf",
+        "911-gt3-rs.com",
+        "blinblin-taytay.top",
+        "cfprefer1.xyz",
+        "cloudflarestorage.com",
+        "heizipan.com",
         "meimeiyun.top",
-        "mypikpak.com",
+        "mm2022.top",
         "tag-global-ddns.top",
+        "tkvtkvktvktv.net",
         "ttvnw.net"
       ]
     },
     {
       "ip_cidr": [
-        "1.0.0.1/32",
-        "1.1.1.1/32",
-        "136.22.0.0/16"
+        "136.22.0.0/16",
+        "162.219.87.156/32",
+        "8.8.8.8/32"
       ]
     },
     {

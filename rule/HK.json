@@ -1,8 +1,38 @@
 {
   "rules": [
     {
+      "domain": [
+        "api.onesignal.com",
+        "connect.intl.rom.miui.com",
+        "csl.prod.ondemandconnectivity.com",
+        "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+        "global.market.xiaomi.com",
+        "gspe1-ssl.ls.apple.com",
+        "hhk.prod.ondemandconnectivity.com",
+        "jupiter.intl.sys.miui.com",
+        "ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org",
+        "ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+        "sub.xeton.dev",
+        "xdaforums.com"
+      ]
+    },
+    {
       "domain_suffix": [
-        "hk"
+        "anyplex.com",
+        "dice-live-eu.akamaized.net",
+        "dve-streams.akamaized.net",
+        "global.xiaomi.com",
+        "global.xiaomi.net",
+        "intl.inf.miui.com",
+        "intl.miui.com",
+        "xda-developers.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "120.88.0.0/16",
+        "3.214.214.173/32",
+        "52.5.96.96/32"
       ]
     }
   ],

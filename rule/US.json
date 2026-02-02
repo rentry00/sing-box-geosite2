@@ -2,82 +2,38 @@
   "rules": [
     {
       "domain": [
-        "chat.openai.com",
         "fi.google.com",
-        "fxacg.net",
-        "kinesis.eu-central-1.amazonaws.com",
-        "nbalpng.akamaized.net",
-        "net.feixue.us"
+        "xiaomi.eu"
       ]
     },
     {
       "domain_keyword": [
-        "instagram",
-        "twitter"
+        "instagram"
       ]
     },
     {
       "domain_suffix": [
-        "ads-twitter.com",
-        "bing.com",
         "cdninstagram.com",
-        "cms-twdigitalassets.com",
         "ebates.com",
-        "ebay-us.com",
-        "ebay.com",
-        "ebaycdn.net",
-        "ebayimg.com",
-        "ebayinc.com",
-        "ebaymainstreet.com",
-        "ebayprivacycenter.com",
-        "ebayrtm.com",
-        "ebaystatic.com",
-        "esmplus.com",
+        "infoseek.co.jp",
         "instagr.am",
         "instagram.com",
-        "msn.com",
-        "msocdn.com",
-        "msocsp.com",
-        "periscope.tv",
-        "pscp.tv",
+        "o50.jp",
         "r10.to",
         "r10s.com",
+        "r10s.jp",
         "rakuten-static.com",
+        "rakuten.ca",
+        "rakuten.co.jp",
         "rakuten.com",
+        "rakuten.com.tw",
+        "rakuten.ne.jp",
+        "rakuten.tw",
         "rclon.com",
-        "t.co",
-        "tellapart.com",
-        "tweetdeck.com",
-        "twimg.co",
-        "twimg.com",
-        "twimg.org",
-        "twitpic.com",
-        "twitter.biz",
-        "twitter.com",
-        "twitter.jp",
-        "twittercommunity.com",
-        "twitterflightschool.com",
-        "twitterinc.com",
-        "twitteroauth.com",
-        "twitterstat.us",
-        "twtrdns.net",
-        "twttr.com",
-        "twttr.net",
-        "twvid.com",
-        "viber.com",
-        "vine.co"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "104.244.42.0/21",
-        "192.133.76.0/22",
-        "199.16.156.0/22",
-        "199.59.148.0/22",
-        "199.96.56.0/21",
-        "202.160.128.0/22",
-        "209.237.192.0/19",
-        "69.195.160.0/19"
+        "rebates.jp",
+        "showtime.co.jp",
+        "viber.co.jp",
+        "viber.com"
       ]
     }
   ],
