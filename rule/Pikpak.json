@@ -6,6 +6,7 @@
         "access.pikpakdrive.com",
         "api-drive.mypikpak.com",
         "app.adjust.com",
+        "dl.pikpak.io",
         "download.testip.xyz",
         "o4504926511693824.ingest.sentry.io",
         "user.mypikpak.com"
@@ -15,6 +16,7 @@
       "domain_suffix": [
         "mypikpak.com",
         "mypikpak.net",
+        "pickpackapp.com",
         "shuocc.com"
       ]
     }
