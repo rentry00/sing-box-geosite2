@@ -4,6 +4,11 @@
       "domain_keyword": [
         "missav"
       ]
+    },
+    {
+      "ip_cidr": [
+        "168.138.176.146/32"
+      ]
     }
   ],
   "version": 2
