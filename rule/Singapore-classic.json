@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_keyword": [
+        "binance",
+        "huobi",
+        "metamask",
+        "okx"
+      ]
+    }
+  ],
+  "version": 2
+}
