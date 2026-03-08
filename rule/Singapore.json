@@ -2,18 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "agkn.com",
         "claw.cloud",
-        "cohere.com",
-        "crashlytics.com",
-        "inmobi.com",
-        "inner-active.mobi",
-        "kochava.com",
-        "mobilefuse.com",
-        "sg",
-        "talkatone.com",
-        "tktn.at",
-        "tktn.be"
+        "sg"
       ]
     }
   ],
