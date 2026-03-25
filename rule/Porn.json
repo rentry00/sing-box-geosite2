@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain_keyword": [
-        "missav"
+        "missav",
+        "prd.media.max.com"
       ]
     },
     {
       "domain_suffix": [
-        "h264.io",
-        "prd.media.max.com"
+        "h264.io"
       ]
     },
     {
