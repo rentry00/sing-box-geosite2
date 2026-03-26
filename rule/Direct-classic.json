@@ -1,24 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "aria2",
-        "thunder",
-        "xlliveud",
-        "xunlei",
-        "yunpan"
-      ]
-    },
-    {
-      "port": [
-        "9993"
-      ]
-    },
-    {
-      "source_port": [
-        "9993"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
