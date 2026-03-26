@@ -1,4 +1,41 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "fi.google.com",
+        "xiaomi.eu"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "instagram"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cdninstagram.com",
+        "ebates.com",
+        "infoseek.co.jp",
+        "instagr.am",
+        "instagram.com",
+        "o50.jp",
+        "r10.to",
+        "r10s.com",
+        "r10s.jp",
+        "rakuten-static.com",
+        "rakuten.ca",
+        "rakuten.co.jp",
+        "rakuten.com",
+        "rakuten.com.tw",
+        "rakuten.ne.jp",
+        "rakuten.tw",
+        "rclon.com",
+        "rebates.jp",
+        "showtime.co.jp",
+        "viber.co.jp",
+        "viber.com"
+      ]
+    }
+  ],
   "version": 2
 }
