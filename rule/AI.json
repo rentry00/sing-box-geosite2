@@ -52,8 +52,10 @@
     {
       "domain_suffix": [
         "ads-twitter.com",
+        "agentclientprotocol.com",
         "ai.com",
         "ai.studio",
+        "aicode.googleapis.com",
         "aida.googleapis.com",
         "aisandbox-pa.googleapis.com",
         "aistudio.google.com",
@@ -202,6 +204,7 @@
         "periscope.tv",
         "perplexity.ai",
         "perplexity.com",
+        "plannotator.ai",
         "poe.com",
         "poecdn.net",
         "pplx.ai",
