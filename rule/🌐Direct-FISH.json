@@ -1,35 +1,4 @@
 {
-  "rules": [
-    {
-      "domain": [
-        "api.ipify.org",
-        "bam.nr-data.net",
-        "fwa.lifesizecloud.com",
-        "hanime1.me",
-        "mqtt.xbase.cloud",
-        "ncbi.nlm.nih.gov",
-        "router.bittorrent.com",
-        "stun.fitauto.ru",
-        "stun.freeswitch.org",
-        "stun.hot-chilli.net",
-        "stun.isp.net.au",
-        "stun.nextcloud.com",
-        "stun.radiojar.com",
-        "stun.sonetel.com",
-        "stun.syncthing.net",
-        "stun.voip.blackberry.com",
-        "v6.gh-proxy.org"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "cd120.info",
-        "crossref.org",
-        "duoqin.com",
-        "qing-yu.top",
-        "sentry.io"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
