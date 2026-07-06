@@ -1,16 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "1drv",
-        "announce",
-        "chdbits",
-        "m-team",
-        "onedrive",
-        "skydrive",
-        "torrent"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
