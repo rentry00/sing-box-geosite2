@@ -1,45 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "1drv",
-        "1e100",
-        "abema",
-        "amazon",
-        "appledaily",
-        "avoddashs",
-        "avtb",
-        "bbcfmt",
-        "beetalk",
-        "blogspot",
-        "dlercloud",
-        "dropbox",
-        "facebook",
-        "fbcdn",
-        "gmail",
-        "google",
-        "instagram",
-        "jav",
-        "musical.ly",
-        "onedrive",
-        "paypal",
-        "pinterest",
-        "porn",
-        "sci-hub",
-        "skydrive",
-        "spotify",
-        "telegram",
-        "tiktok",
-        "ttvnw",
-        "twimg",
-        "twitter",
-        "uk-live",
-        "voddazn",
-        "whatsapp",
-        "wikileaks",
-        "youtube"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }

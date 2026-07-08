@@ -1,11 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_suffix": [
-        "fetnet.net",
-        "friday.tw"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
