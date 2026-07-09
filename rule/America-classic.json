@@ -1,11 +1,4 @@
 {
-  "rules": [
-    {
-      "domain_keyword": [
-        "adobe",
-        "github"
-      ]
-    }
-  ],
+  "rules": [],
   "version": 2
 }
