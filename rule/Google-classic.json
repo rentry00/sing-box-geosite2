@@ -1,4 +1,14 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain_keyword": [
+        "appspot",
+        "blogspot",
+        "gmail",
+        "google",
+        "recaptcha"
+      ]
+    }
+  ],
   "version": 2
 }
