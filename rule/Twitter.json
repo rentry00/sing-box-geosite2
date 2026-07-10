@@ -9,7 +9,6 @@
       "domain_suffix": [
         "ads-twitter.com",
         "cms-twdigitalassets.com",
-        "grok.com",
         "periscope.tv",
         "pscp.tv",
         "t.co",
@@ -31,13 +30,13 @@
         "twttr.com",
         "twttr.net",
         "twvid.com",
-        "vine.co",
-        "x.com"
+        "vine.co"
       ]
     },
     {
       "ip_cidr": [
         "192.133.76.0/22",
+        "199.16.156.0/22",
         "199.59.148.0/22",
         "199.96.56.0/21",
         "202.160.128.0/22",
