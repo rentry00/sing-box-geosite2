@@ -2,6 +2,7 @@
   "rules": [
     {
       "domain": [
+        "7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe",
         "ai.google.dev",
         "aida.googleapis.com",
         "aisandbox-pa.googleapis.com",
@@ -135,6 +136,8 @@
         "cursorapi.com",
         "deepmind.com",
         "deepmind.google",
+        "deepwiki.com",
+        "deepwiki.org",
         "devin.ai",
         "diabrowser.com",
         "diabrowser.engineering",
