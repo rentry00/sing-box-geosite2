@@ -2,8 +2,7 @@
   "rules": [
     {
       "domain_keyword": [
-        "adobe",
-        "github"
+        "adobe"
       ]
     }
   ],
