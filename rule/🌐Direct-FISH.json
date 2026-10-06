@@ -3,13 +3,11 @@
     {
       "domain": [
         "api.ipify.org",
-        "api.zipimg.cn",
         "bam.nr-data.net",
         "fwa.lifesizecloud.com",
         "mqtt.xbase.cloud",
         "ncbi.nlm.nih.gov",
         "router.bittorrent.com",
-        "sc.350303.xyz",
         "stun.fitauto.ru",
         "stun.freeswitch.org",
         "stun.hot-chilli.net",
@@ -29,6 +27,7 @@
     },
     {
       "domain_suffix": [
+        "303580.xyz",
         "cd120.info",
         "crossref.org",
         "duoqin.com",
@@ -37,7 +36,8 @@
         "sentry.io",
         "steelseries.com",
         "teamspeak.com",
-        "tmspk.net"
+        "tmspk.net",
+        "zipimg.cn"
       ]
     }
   ],
