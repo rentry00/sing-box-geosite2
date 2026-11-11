@@ -2,19 +2,11 @@
   "rules": [
     {
       "domain": [
-        "2026234.xyz",
-        "2026345.xyz",
-        "2026456.xyz",
-        "2026567.xyz",
-        "2026678.xyz",
-        "emby.taotu.ink",
-        "suiying.qutama.de",
         "www.jrskan.com"
       ]
     },
     {
       "domain_suffix": [
-        "63988219.xyz",
         "911-gt3-rs.com",
         "blinblin-taytay.top",
         "cfprefer1.xyz",
